@@ -12,6 +12,8 @@ NFT - Non Fungible Token
 
 CBDC - Central Bank digital currency
 
+distributed ledger technology (DLT) 
+
 Fractional Banking 
 
 DeFi - Decentralised Finance
