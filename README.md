@@ -49,6 +49,8 @@ severeign fund
 
 CurrencyFaie.com
 
+Polygon - layer 2 blockchain
+
 solana.com
 
 avax.com
